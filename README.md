@@ -1,6 +1,9 @@
 # basic_bank_app
 
-A new Flutter application.
+Flutter application.
+
+Bank Application, having Admin user who can tranfer funds to different customers and also customers can transfer money to him. 
+Tech: Dart, Flutter, SQFlite.
 
 ## Getting Started
 
